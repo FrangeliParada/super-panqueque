@@ -1,0 +1,139 @@
+
+.logo{
+	margin-left: 50px;
+	height: 60px;
+}
+.iconos{
+	margin-left: 200px;
+	height: 10px;
+}
+.Menu{
+	display: block;
+	display: center;
+	align-content: center;
+	margin-left: 250px;
+}
+.Menu2{
+	display: block;
+	margin-left: 1px;
+}
+.lista{
+	margin-left: 60px;
+}
+.ig{
+	height: 30px;
+}
+.row{
+display:block;
+  margin-left: auto;
+  margin-right: auto;
+	background: #fff;
+}
+.carru{
+	background: url(imagenes/social-media1.jpg);
+	background-attachment: scroll;
+	height: 500px;
+	display: block;
+}
+
+ .imagen{
+ 	margin-top: 180px;
+	padding: 10px 500px;
+	margin-left: 250px;
+}
+.tarjetas{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px 20px; 
+	background: #DDD7D6;
+	display: flex;
+}
+.tj{
+	display: flex;
+	align-content: center;
+}
+.t{
+
+	margin-left: 60px;
+}
+.tj-Imagen{
+	width: 90px;
+	display: block;
+	margin-left: 70px;
+	margin-top: 20px;
+}
+.c1{
+	display: flex;
+
+
+}
+.texto{
+	color: #fff;
+	margin-top: 200px;
+	margin-right: 500px;
+	text-align: left;	
+	font-family: coolvetica;
+}
+.tj{
+	margin: 20px;
+}
+.iconos2{
+	height: 10px;
+	margin-left: 20px;
+}
+.tlf{
+	font-style: normal;
+	line-height: 5px;
+	margin-top: 10px;
+	padding: 5px 5px;
+	margin-left: 150px;
+	border-color: #B6B3B2;
+
+}
+.f{
+	background: orange;
+	color: #fff;
+	height: 50px;
+}
+.boton{
+	box-shadow: 5px 3px 8px #000;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.cr{
+	margin: 50px;
+	background: #DDD7D6;
+	display: flex;
+}
+.boton1{
+	height: 30px;
+	width: 30px;
+	color:#fff;
+	margin-top: 250px;
+}
+.principal{
+	padding: 10px 20px;
+	background: #fff;
+}
+.footer{
+	background: yellow;
+}
+h3{
+	line-height: 50px;
+	font-size: 50px;
+	margin-top: 50px;
+}
+.textTarjeta{
+	text-align: center;
+}
+.textFooter{
+text-align: right;
+}
+.titleTarjeta{
+	color: orange;
+}
+.parrafo{
+	margin-top: 30px;
+	font-size: 20px;
+}
